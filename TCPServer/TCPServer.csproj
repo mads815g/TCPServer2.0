@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Football">
+      <HintPath>..\..\..\3.semester obligatorisk opgave\Football\Football\bin\Debug\net5.0\Football.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
